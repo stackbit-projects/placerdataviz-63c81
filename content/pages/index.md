@@ -8,10 +8,7 @@ sections:
       Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
       cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
       consectetur lobortis.
-    actions:
-      - label: Get Started
-        url: /docs/getting-started/installation
-        style: primary
+    actions: []
 seo:
   title: Stackbit Libris Theme
   description: The preview of the Libris theme
