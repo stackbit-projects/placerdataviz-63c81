@@ -3,7 +3,7 @@
     "path_prefix": "/",
     "palette": "blue",
     "header": {
-        "title": "Testing",
+        "title": "Libris",
         "logo_img": "/images/image003.png",
         "logo_img_alt": "Libris logo",
         "has_nav": true,
