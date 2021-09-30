@@ -84,5 +84,6 @@
                 "new_window": true
             }
         ]
-    }
+    },
+    "domain": "https://placerdataviz-63c81.netlify.app"
 }
