@@ -4,10 +4,8 @@ sections:
   - section_id: text-no-img
     type: section_content
     title: eCourt and Power BI
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+    content: |
+      Documentation from Placer Court 
     actions: []
 seo:
   title: Stackbit Libris Theme
